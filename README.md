@@ -1,4 +1,4 @@
-# Moive Seat Booking App Project
+# Movie Seat Booking App Project
 
 Project from Udemy course, a movie seat booking app.
 
